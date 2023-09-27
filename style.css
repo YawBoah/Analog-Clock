@@ -112,3 +112,16 @@ body.dark{
     background-color: var(--black-color);
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
 }
+
+@media screen and (max-width: 768px) {
+    .container .clock {
+        height: 300px; /* Adjust the height as needed for smaller screens */
+        width: 300px; /* Adjust the width as needed for smaller screens */
+    }
+
+    .clock label span {
+        font-size: 20px; /* Adjust the font size for labels on smaller screens */
+    }
+
+    /* You can further adjust other styles as needed for smaller screens */
+}
