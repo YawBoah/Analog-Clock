@@ -51,6 +51,8 @@ body{
     position: absolute;
     height: 10px;
     width: 10px;
+    display: flex;
+    justify-content: center;
 }
 
 .indicator::before{
