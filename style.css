@@ -20,6 +20,13 @@ body{
     background: var(--primary-color);
 }
 
+body.dark{
+    --primary-color: #242526;
+    --white-color: #18191a;
+    --black-color: #fff;
+    --red-color: #e74c3c;
+}
+
 .container{
     display: flex;
     flex-direction: column;
