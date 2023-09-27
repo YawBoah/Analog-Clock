@@ -2,6 +2,10 @@
 
 This is a simple analog clock project built using HTML, CSS, and JavaScript. It displays the current time with hour, minute, and second hands on a clock face.
 
+![Screenshot 2023-09-27 232804](https://github.com/YawBoah/Analog-Clock/assets/126890146/f42cc9c9-dc60-46b8-9092-ac88ec5220eb)
+
+![Screenshot 2023-09-27 232919](https://github.com/YawBoah/Analog-Clock/assets/126890146/9584fde1-73aa-4b27-bc98-3eb70f865cc5)
+
 ## Table of Contents
 
 - [Features](#features)
