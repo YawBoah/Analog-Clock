@@ -32,3 +32,10 @@ body{
     position: relative;
 }
 
+.clock label{
+    position: absolute;
+    inset: 20px;
+    text-align: center;
+    transform: rotate(calc(var(--i) * (360deg/12)));
+}
+
