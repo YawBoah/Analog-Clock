@@ -46,3 +46,9 @@ body{
     color: var(--black-color);
     transform: rotate(calc(var(--i) * (-360deg/12)));
 }
+
+.container .indicator{
+    position: absolute;
+    height: 10px;
+    width: 10px;
+}
