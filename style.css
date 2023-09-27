@@ -25,6 +25,8 @@ body{
     height: 400px;
     width: 400px;
     border-radius: 50%;
+    align-items: center;
+    justify-content: center;
     background: var(--white-color);
     box-sizing: 0 15px 25px rgba(0, 0, 0, 0.1), 0 25px 45px rgba(0, 0, 0, 0.1);
 }
