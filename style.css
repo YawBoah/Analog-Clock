@@ -61,6 +61,7 @@ body{
     height: 100%;
     width: 100%;
     border-radius: 50%;
+    z-index: 100;
     background: var(--black-color);
     border: 4px solid var(--red-color);
 }
@@ -70,5 +71,19 @@ body{
     height: 130px;
     width: 4px;
     bottom: 0;
+    border-radius: 25px;
+    transform-origin: bottom;
     background: var(--red-color);
+}
+
+.hand.minute{
+    height: 120px;
+    width: 5px;
+    background: var(--black-color);
+}
+
+.hand.hour{
+    height: 100px;
+    width: 8px;
+    background: var(--black-color);
 }
