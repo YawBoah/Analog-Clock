@@ -63,4 +63,10 @@ body{
     border: 4px solid var(--red-color);
 }
 
-
+.indicator .hand{
+    position: absolute;
+    height: 130px;
+    width: 4px;
+    bottom: 0;
+    background: var(--red-color);
+}
